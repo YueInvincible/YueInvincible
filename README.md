@@ -3,12 +3,13 @@
 ### :man_technologist: Về tui! / About Me:
 
 Giờ thì mình đang học lập trình, chưa có repository hay project nào provjp hết nhưng sẽ thôi :>
+
 At the moment, I’m studying programming. I haven’t built any notable repositories or projects yet, but I definitely will soon :>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 from Vietnam.
 
 ## Tớ ở đây :mailbox:
-## Reach me at :mailbox:
+   Reach me at :mailbox:
 
 <div id="badges">
   <a href="https://github.com/YueInvincible">
@@ -34,7 +35,7 @@ from Vietnam.
 </div>
 
 ## Lực chiến :fire:
-## My stats :fire:
+   My stats :fire:
 
 <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yueinvincible&layout=compact&theme=vision-friendly-dark" />
