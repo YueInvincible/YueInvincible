@@ -30,14 +30,7 @@ from Vietnam.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVa" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://freelogopng.com/images/all_img/1681039084chatgpt-icon.png" title="VibeCode Final Boss" alt="GPT" width="40" height="40"/>&nbsp;
-</div>
-
-## Lực chiến :fire:
-   My stats :fire:
-
-<a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yueinvincible&layout=compact&theme=vision-friendly-dark" />
-  </a>
 </div>
