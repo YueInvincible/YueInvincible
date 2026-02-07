@@ -15,8 +15,8 @@ At the moment, I’m studying programming. I haven’t built any notable reposit
   <a href="https://github.com/YueInvincible">
     <img src="https://img.shields.io/badge/YueInvincible-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://x.com">
-    <img src="https://img.shields.io/badge/@YUEBATBAI-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://x.com/YueBatBai">
+    <img src="https://img.shields.io/badge/@YUE-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/yueinv-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
