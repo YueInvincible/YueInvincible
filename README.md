@@ -5,8 +5,8 @@
 Giờ thì mình đang học lập trình, chưa có repository hay project nào provjp hết nhưng sẽ thôi :>
 
 At the moment, I’m studying programming. I haven’t built any notable repositories or projects yet, but I definitely will soon :>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-from Vietnam.
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
 
 ## Tớ ở đây :mailbox:
    Reach me at :mailbox:
